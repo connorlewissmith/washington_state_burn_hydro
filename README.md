@@ -1,5 +1,7 @@
 # **Washington State DEM Processing Workflow**
 
+![](output/plot_1.png)
+
 This repository contains scripts for processing 1/3 arc sec Digital Elevation Models (DEMs) of Washington State, including downloading, merging, clipping by WRIA boundaries, and hydrological analysis (e.g., D8 burn-in of streams). The workflow is organized into several steps, detailed below.
 
 ------------------------------------------------------------------------
